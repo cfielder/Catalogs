@@ -22,6 +22,8 @@ Data in these catalogues originates from:
   - The MPA-JHU catalog: https://www.sdss.org/dr12/spectro/galaxy_mpajhu/
   - The Simard Bulge-Disk decomposition catalog: https://ui.adsabs.harvard.edu/abs/2011ApJS..196...11S/abstract
 
+The additional catalogs have been cross matched with the SDSS DR8 volume-limited sample constructed in https://ui.adsabs.harvard.edu/abs/2015ApJ...809...96L/abstract
+
 ## Catalog Description
 ###
 
